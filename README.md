@@ -1,3 +1,3 @@
-#A Pinterest-style Rails App: 
-##https://pinify.herokuapp.com/
+A Pinterest-style Rails App: 
+https://pinify.herokuapp.com/
 
